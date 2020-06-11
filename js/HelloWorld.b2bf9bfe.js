@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["HelloWorld"],{"1a8a":function(e,n,t){"use strict";var a=t("6367"),s=t.n(a);s.a},6367:function(e,n,t){},fdab:function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"hello"},[t("h1",[e._v(e._s(e.msg))])])},s=[],l=t("2b0e"),o=l["a"].extend({name:"HelloWorld",props:{msg:String}}),r=o,c=(t("1a8a"),t("2877")),i=Object(c["a"])(r,a,s,!1,null,"72f79eff",null);n["default"]=i.exports}}]);
+//# sourceMappingURL=HelloWorld.b2bf9bfe.js.map

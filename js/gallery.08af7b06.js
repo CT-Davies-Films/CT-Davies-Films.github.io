@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["gallery"],{"0d77":function(e,t,a){"use strict";a.r(t);var l=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},n=[function(){var e=this,t=e.$createElement,a=e._self._c||t;return a("div",{staticClass:"about",attrs:{id:"gallery-page"}},[a("h1",[e._v("This is a gallery page")])])}],r=a("2877"),s={},i=Object(r["a"])(s,l,n,!1,null,null,null);t["default"]=i.exports}}]);
+//# sourceMappingURL=gallery.08af7b06.js.map
